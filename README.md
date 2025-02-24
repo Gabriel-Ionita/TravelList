@@ -1,6 +1,27 @@
-# Getting Started with Create React App
+# Travel List Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A React application to help you organize your travel items.
+
+## Access the Application
+
+👉 [Access Travel List](https://gabriel-ionita.github.io/TravelList/)
+
+<a href="https://gabriel-ionita.github.io/TravelList/" style="display: inline-block; padding: 10px 20px; background-color: #76c7ad; color: #5a3e2b; text-decoration: none; border-radius: 5px; font-weight: bold; margin: 10px 0;">Access Travel List App</a>
+
+## Features
+
+- Add items to your packing list
+- Specify quantity for each item
+- Mark items as packed/unpacked
+- Remove individual items
+- Clear entire list
+- Track packing progress
+
+## Technologies Used
+
+- React
+- CSS
+- GitHub Pages for deployment
 
 ## Available Scripts
 
