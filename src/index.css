@@ -46,6 +46,18 @@ h1 {
   gap: 0.8rem;
 }
 
+.add-form button {
+  text-transform: uppercase;
+  background-color: #76c7ad;
+  margin: 0 0.8rem;
+}
+
+/* Remove or comment out this selector as it's overriding our button styles */
+/* .add-form button:last-child {
+  background-color: #e5771f;
+  margin-left: 0.8rem;
+} */
+
 h3 {
   margin-right: 1.6rem;
   font-size: 2.4rem;
@@ -63,11 +75,6 @@ input {
   font-weight: 700;
   font-size: 1.8rem;
   cursor: pointer;
-}
-
-.add-form button {
-  text-transform: uppercase;
-  background-color: #76c7ad;
 }
 
 .list {
