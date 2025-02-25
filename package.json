@@ -14,7 +14,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -34,7 +34,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/travel-list",
+  "homepage": "https://gabriel-ionita.github.io/TravelList",
   "devDependencies": {
     "gh-pages": "^6.3.0"
   }
